@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { Leaderboard } from "@dylanintech/flywheel-leaderboard";
+import { Leaderboard } from "flywheel-leaderboard";
 
 function App() {
 
